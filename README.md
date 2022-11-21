@@ -81,32 +81,24 @@ and click on the connect icon
 
 3. click on the 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
+### Program:
+
+![image](https://user-images.githubusercontent.com/93427201/203053141-053ab39e-a56f-42b3-a545-0d16e028887c.png)
+
+![image](https://user-images.githubusercontent.com/93427201/203053096-dcf8e566-3440-4e01-b00a-78f28ada7e07.png)
+
+![image](https://user-images.githubusercontent.com/93427201/203056966-8023549f-f528-4ebb-a910-c502bdf4ebe4.png)
 
 
+### Robo Action:
 
-
-
-
+![image](https://user-images.githubusercontent.com/93427201/203057025-1ad75b6c-ed41-4e50-84be-4d9dabc80b66.png)
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
+
+
 
 
 
